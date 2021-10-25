@@ -1,0 +1,2 @@
+vio_reset.v,verilog,xil_defaultlib,../../../../pll_leds.srcs/sources_1/ip/vio_reset/sim/vio_reset.v,incdir="../../../../pll_leds.srcs/sources_1/ip/vio_reset/hdl/verilog"incdir="../../../../pll_leds.srcs/sources_1/ip/vio_reset/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v
